@@ -1,0 +1,205 @@
+* {
+    font-family: sans-serif;
+}
+
+.parent {
+    display: flex;
+    border: 2px solid black;
+    flex-wrap: wrap;
+    width: 750px;
+    min-height: 450px;
+    flex-wrap: wrap;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+}
+
+.parent>.child {
+    flex-wrap: wrap;
+}
+
+.child {
+    flex-wrap: wrap;
+    border-radius: 8px;
+    border: 1px solid black;
+    width: 155px;
+    height: 130px;
+
+}
+
+.child1 {
+    flex-wrap: wrap;
+    border-radius: 8px;
+    margin: 2px;
+    background-color: rgba(180, 174, 204, 0.973);
+    align-items: end;
+}
+
+.child2 {
+    margin: 2px;
+}
+
+.child3 {
+    margin: 2px;
+
+}
+
+.child4 {
+    margin: 2px;
+}
+
+.child5 {
+    margin: 4px;
+}
+
+.child6 {
+    margin: 4px;
+}
+
+.child7 {
+    margin: 4px;
+}
+
+.child8 {
+    margin: 4px;
+}
+
+.prac1 {
+    width: 157px;
+    height: 100px;
+}
+
+img {
+
+    border-radius: 7.5px;
+}
+
+.p1 {
+
+    flex-direction: column;
+    border: 1px solid black;
+    width: 80px;
+    height: 20px;
+}
+
+.p2 {
+    flex-direction: column;
+    border: 1px solid black;
+    width: 80px;
+    height: 20px;
+
+}
+
+.p3 {
+    flex-direction: column;
+    border: 1px solid black;
+    width: 80px;
+    height: 20px;
+
+}
+
+.p4 {
+    flex-direction: column;
+    border: 1px solid black;
+    width: 80px;
+    height: 20px;
+
+}
+
+.p5 {
+    flex-direction: column;
+    border: 1px solid black;
+    width: 80px;
+    height: 20px;
+
+}
+
+.p6 {
+
+    flex-direction: column;
+    border: 1px solid black;
+    width: 80px;
+    height: 20px;
+}
+
+.p7 {
+
+    flex-direction: column;
+    border: 1px solid black;
+    width: 80px;
+    height: 20px;
+}
+
+.p8 {
+
+    flex-direction: column;
+    border: 1px solid black;
+    width: 80px;
+    height: 20px;
+}
+
+.p9 {
+    flex-direction: column;
+    border: 1px solid black;
+    width: 80px;
+    height: 20px;
+
+}
+
+.p10 {
+    flex-direction: column;
+    border: 1px solid black;
+    width: 80px;
+    height: 20px;
+
+}
+
+.p11 {
+    flex-direction: column;
+    border: 1px solid black;
+    width: 80px;
+    height: 20px;
+
+}
+
+.p12 {
+
+    flex-direction: column;
+    border: 1px solid black;
+    width: 80px;
+    height: 20px;
+}
+
+.p13 {
+    flex-direction: column;
+    border: 1px solid black;
+    width: 80px;
+    height: 20px;
+
+}
+
+.p14 {
+    flex-direction: column;
+    border: 1px solid black;
+    width: 80px;
+    height: 20px;
+
+}
+
+.p15 {
+    flex-direction: column;
+    border: 1px solid black;
+    width: 80px;
+    height: 20px;
+
+}
+
+.p16 {
+    flex-direction: column;
+    border: 1px solid black;
+    width: 80px;
+    height: 20px;
+
+}
